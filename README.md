@@ -1,0 +1,2 @@
+# C-codez
+not leetcode
